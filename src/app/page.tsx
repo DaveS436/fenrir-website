@@ -31,7 +31,9 @@ export default function BetaLandingPage() {
           </h2>
           <div className="max-w-xl text-left text-lg text-gray-300">
             <p className="mb-4">
-              You've invested in best-in-class security tools, but your team is still struggling with:
+              <p className="mb-4">
+                </p>
+  You&apos;ve invested in best-in-class security tools, but your team is still struggling with:
             </p>
             <ul className="list-inside list-disc space-y-2">
               <li><span className="font-bold">Alert Overload:</span> Endless, low-context alerts from disconnected systems.</li>
