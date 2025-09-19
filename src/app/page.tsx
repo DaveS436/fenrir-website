@@ -25,7 +25,7 @@ export default function BetaLandingPage() {
       <section className="w-full bg-gray-950 py-20">
         <div className="container mx-auto flex flex-col items-center space-y-6 px-4 text-center">
           <h2 className="text-3xl font-bold sm:text-4xl">
-            Your Security Tools Don&apos;t Talk to Each Other. {/* <-- CORRECTED LINE */}
+            Your Security Tools Don&apos;t Talk to Each Other.
             <br />
             <span className="text-red-500">Attackers Love That.</span>
           </h2>
